@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme version="1.0" name="Qt Creator Dark (customed)">
+<style-scheme version="1.0" name="BK Dark">
   <style name="Text" foreground="#f0f0f0" background="#222222"/>
   <style name="Link" foreground="#00cfcf"/>
   <style name="Selection" background="#6a6a6a"/>
