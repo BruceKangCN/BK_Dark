@@ -19,7 +19,7 @@
   <style name="Type" foreground="#3eccff"/>
   <style name="Local" foreground="#c88f00"/>
   <style name="Global" foreground="#c915d6"/>
-  <style name="Field" foreground="#5a84de"/>
+  <style name="Field" foreground="#9f5bb6"/>
   <style name="Static" foreground="#66a334" italic="true"/>
   <style name="VirtualMethod" foreground="#40c2c2" italic="true"/>
   <style name="Function" foreground="#40c2c2"/>
@@ -28,9 +28,9 @@
   <style name="Operator" foreground="#d6bb9a"/>
   <style name="Overloaded Operator"/>
   <style name="Punctuation"/>
-  <style name="Preprocessor" foreground="#008d02" bold="true"/>
+  <style name="Preprocessor" foreground="#8228b6" bold="true"/>
   <style name="Label" foreground="#d6c540"/>
-  <style name="Comment" foreground="#005900" bold="true"/>
+  <style name="Comment" foreground="#008d02" bold="true"/>
   <style name="Doxygen.Comment" foreground="#65676a" bold="true" italic="true"/>
   <style name="Doxygen.Tag" foreground="#66a334"/>
   <style name="VisualWhitespace" foreground="#bec0c2"/>
@@ -57,10 +57,10 @@
   <style name="DiffDestLine" background="#588a2c"/>
   <style name="DiffDestChar" foreground="#2e2f30" background="#7cc33e"/>
   <style name="LogChangeLine" foreground="#d65645"/>
-  <style name="Warning" foreground="#ab8601" underlineColor="#d6c545" underlineStyle="SingleUnderline"/>
-  <style name="WarningContext" foreground="#ab8601" underlineColor="#d6c545" underlineStyle="DotLine"/>
-  <style name="Error" foreground="#911616" underlineColor="#d65645" underlineStyle="SingleUnderline"/>
-  <style name="ErrorContext" foreground="#911616" underlineColor="#d65645" underlineStyle="DotLine"/>
+  <style name="Warning" foreground="#ab8601" underlineColor="#d6c545" underlineStyle="WaveUnderline"/>
+  <style name="WarningContext" foreground="#ab8601" underlineColor="#d6c545" underlineStyle="DashUnderline"/>
+  <style name="Error" foreground="#ff2525" underlineColor="#d65645" underlineStyle="WaveUnderline"/>
+  <style name="ErrorContext" foreground="#ff2525" underlineColor="#d65645" underlineStyle="WaveUnderline"/>
   <style name="Declaration" foreground="#40c2c2" bold="true"/>
   <style name="FunctionDefinition" foreground="#40c2c2"/>
   <style name="OutputArgument" italic="true"/>
